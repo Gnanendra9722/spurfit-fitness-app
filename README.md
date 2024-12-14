@@ -39,8 +39,8 @@ To run this application, ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd fitness-app
+   git clone https://github.com/Gnanendra9722/spurfit-fitness-app.git
+   cd spurfit-fitness-app
    ```
 
 2. Install the required dependencies:
@@ -59,7 +59,7 @@ To run this application, ensure you have the following installed:
 
 4. Open your browser and navigate to:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ### Usage
@@ -102,7 +102,7 @@ To run this application, ensure you have the following installed:
 The application is deployed on **Netlify**, making it accessible online.
 
 ### Netlify Link
-[Fitness App on Netlify](<insert-your-netlify-link-here>)
+[Fitness App on Netlify](https://gnanendra-spurfit-fitness-app.netlify.app/)
 
 ---
 
