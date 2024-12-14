@@ -52,9 +52,11 @@ To run this application, ensure you have the following installed:
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    # or
-   yarn start
+   yarn run dev
+   # or
+   yarn dev 
    ```
 
 4. Open your browser and navigate to:
